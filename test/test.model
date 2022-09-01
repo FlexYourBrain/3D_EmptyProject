@@ -1,7 +1,0 @@
-mesh: "/builtins/assets/meshes/cube.dae"
-material: "/builtins/materials/model.material"
-textures: "/builtins/assets/images/logo/logo_blue_256.png"
-skeleton: ""
-animations: ""
-default_animation: ""
-name: "unnamed"
